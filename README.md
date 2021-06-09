@@ -4,7 +4,12 @@
 ## About The Project
 Blog website built with Node, e.js, express
 
-![alt text](images/blog.jpg)
+## Reasons
+* learn Node
+* learn templating with e.js
+* learn back-end server side of web-development
+
+![product-screenshot]](images/blog.jpg)
 
 
 ### Built With
@@ -12,3 +17,7 @@ Blog website built with Node, e.js, express
 * Node
 * e.js
 * express
+
+
+### Inspired by
+App Brewery Web Development courses
