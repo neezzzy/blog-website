@@ -4,11 +4,11 @@
 ## About The Project
 Blog website built with Node, e.js, express
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Blog website][product-screenshot]](./images/blog)
 
 
 ### Built With
 
-* [Node]()
-* [e.js]()
-* [express]()
+* [Node]
+* [e.js]
+* [express]
