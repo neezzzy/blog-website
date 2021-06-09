@@ -4,7 +4,7 @@
 ## About The Project
 Blog website built with Node, e.js, express
 
-[![Blog website][product-screenshot]](images/blog.jpg)
+![alt text](images/blog.jpg)
 
 
 ### Built With
